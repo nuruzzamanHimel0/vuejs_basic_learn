@@ -6,29 +6,29 @@ $(document).ready(function(){
         data: {
             a: 0,
             b: 0,
-            A:10,
+            salary:10,
         },
         methods: {
-        //  sumofA() {
-        //         console.log("A");
-        //         return this.a + this.A;
-        //     },
-        //     sumofB: function () {
-        //          console.log("B");
-        //         return this.b + this.A;
-        //     }
-            
+            // sumOfA(){
+            //     console.log('add A');
+            //     return this.salary + this.a;
+            // },
+            // sumOfB(){
+            //     console.log('add B');
+            //     return this.salary + this.b;
+            // }
         },
-        computed: {
-            sumofA() {
-                console.log("A");
-                return this.a + this.A;
+        computed:{
+            sumOfA(){
+                console.log('add A');
+                return this.salary + this.a;
             },
-            sumofB: function () {
-                 console.log("B");
-                return this.b + this.A;
+            sumOfB(){
+                console.log('add B');
+                return this.salary + this.b;
             }
         }
+        
        
     });
 
