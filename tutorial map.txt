@@ -7,7 +7,7 @@ tut-11 v-once
 tut-11 event ( v-on:click="function" )
 tut - 12 ( Argument & Modifiers)
 tut- 13 (  v-model= form )
-tut: 14 ( computed proparty )
+tut: 14 ( computed proparty use instade of methods property )
 tut- 16 (  directive short hand )
 tut- 17 ( create more instance and access one instance to another instance )
 tut - 18 (  $mount() , remplate: property )
