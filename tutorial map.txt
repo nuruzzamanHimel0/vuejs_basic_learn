@@ -22,9 +22,10 @@ tut-26 (done) (  props in child component  ---  child  componnt to parent  compo
 tut-27 (using component child component to child component data upass)
 tut-28 (slot)
 tut-29(bootstrap integration process)
-tut-30 (How to handel form in vuejs)
+tut-30-34 (How to handel form in vuejs)
 
 tut-35 ( --------------- Dynamic components----------)
+
 tut-36, 37 (custom directive)
 datae: 31/7/21
 tut- 38 (vuejs transition)
