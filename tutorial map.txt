@@ -29,17 +29,27 @@ tut-35 ( --------------- Dynamic components----------)
 tut-36, 37 (custom directive)
 datae: 31/7/21
 tut- 38 (vuejs transition)
-tut- 39 (custom transation)
+tut- 39 done -- 7/8/21(custom transation class)
 tut-40 ( Local and Global filter)
-tut-41 (mixin)
-tut-42,43 ( GET & POST )
-tut-44,45 (vue ROUTE)
+tut-41 (mixin) using this we can ure re-useable data for all components
 
-tut-46,47( nested route and query string)
+tut-42,43 ( GET & POST )
+
+============== related start
+tut-44,45 (done) (vue ROUTE) title: 
+ vue js router diya google y serarch dite hbe: https://router.vuejs.org/installation.html
+ei url teke vue router include kore nite hbe
+
+tut-46,47( nested route , route name use , query string or query parameters use
 tut-48 ( active-class , exact , wrong url redirect home or 404 )
 tut-49 (scroll behavior form , to)
+tut-50(vue router nevigation guard)
+
+============== related end
+
+
 
 tut- 51 , 52 , 53 (vuex, vuex store)
-tut- 54 (vuex getters)
+tut- 53(vuex getters)
 tut- 55,56  (vuex mutation , vuex actions)
 tut-56 ()
